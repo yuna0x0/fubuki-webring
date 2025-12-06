@@ -16,7 +16,7 @@ A webring for cozy blogs and personal websites. Powered by [ringfairy](https://g
   "owner": "your.email@example.com",
   "rss": "https://example.com/rss.xml", // optional
   "misc": {
-    "button": "https://example.com/88x31.webp", // 88x31 button image URL (optional, but recommended)
+    "button": "https://example.com/88x31.png", // 88x31 button image URL (optional, but recommended)
     "twtxt": "https://example.com/twtxt.txt" // twtxt feed URL (optional)
   }
 }
