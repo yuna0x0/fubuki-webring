@@ -22,7 +22,7 @@ A webring for cozy blogs and personal websites. Powered by [ringfairy](https://g
 }
 ```
 
-3. Commit your changes and create a pull request on [GitHub](https://github.com/yuna0x0/fubuki-webring) or [Codeberg](https://github.com/yuna0x0/fubuki-webring). (Repositories are mirrored between the two platforms.)
+3. Commit your changes and create a pull request on [GitHub](https://github.com/yuna0x0/fubuki-webring) or [Codeberg](https://codeberg.org/yuna0x0/fubuki-webring). (Repositories are mirrored between the two platforms.)
 4. After your PR is merged, add the follow HTML snippet (or customize it as you like) to your website, replacing `{your-slug}` with your chosen slug:
 
 ```html
